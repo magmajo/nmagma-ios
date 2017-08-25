@@ -95,7 +95,7 @@ https://magi82.github.io/ios-regist-carthage/ -> library를 carthage로 깔끔�
   #
 
   s.source_files = "Sources/**/*.{h,m,c,cpp,swift}"
-  s.public_header_files = "Sources/**/*.h"	  
+  #s.public_header_files = "Sources/**/*.h"
   #s.source_files  = "Classes", "Classes/**/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
   #s.public_header_files = "Classes/**/*.h"

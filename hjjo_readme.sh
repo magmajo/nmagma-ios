@@ -1,5 +1,7 @@
 
 ## https://magi82.github.io/ios-regist-cocoapods/
+## http://recoveryman.tistory.com/271
+## https://blog.outsider.ne.kr/1132
 
 ## . lib project
 pod lib create [pod name]
