@@ -1,0 +1,15 @@
+Pod::Spec.new do |s|
+  s.name             = 'nmagma'
+  s.version          = '0.0.1'
+  s.summary          = 'nmagma-ios'
+  s.description      = <<-DESC
+                      [YOUR POD DESCRIPTION]
+                      DESC
+  s.homepage         = '[GITHUB URL]'
+  s.screenshots      = '[IMAGE URL 1]', '[IMAGE URL 2]'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.author           = { '[ACCOUNT]' => '[E-MAIL]' }
+  s.source           = { :git => '[GITHUB URL].git', :tag => s.version.to_s }
+  s.ios.deployment_target = '8.0'
+  s.source_files = '[SOURCE PATH]'
+end
